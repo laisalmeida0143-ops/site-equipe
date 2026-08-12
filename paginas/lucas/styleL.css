@@ -1,3 +1,10 @@
+button {
+    text-align: left;
+    border: black;
+    padding: 5px 10px;
+    background-color: #4f4caf; /* Green */
+}
+
 li {
     font-family: Arial, Helvetica, sans-serif;
     color:black
@@ -19,5 +26,4 @@ p, h1, h2, h3 {
 body {
     background-color: lightblue;
 }
-
 
